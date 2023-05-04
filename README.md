@@ -4,7 +4,7 @@
 
 My name is Sipan Ahmad, I live in Syria. I'm studying at Aleppo University in IT. I'm interested in the field of Frontend development.
 
-Skills:  JS / HTML / CSS  / GIT / GITHUB
+Skills:  JS / HTML / CSS / SASS / REACT JS / GIT / GITHUB
 
 - 🔭 I’m currently working on as a Freelancer 
 - 🌱 I’m currently learning Computer Science at Aleppo University 
