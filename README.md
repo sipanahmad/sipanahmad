@@ -7,7 +7,7 @@ My name is Sipan Ahmad, I live in Syria. I'm studying at Aleppo University in IT
 Skills:  JS / HTML / CSS / SASS / REACT JS / GIT / GITHUB
 
 - 🔭 I’m currently working on as a Freelancer 
-- 🌱 I’m currently learning Computer Science at Aleppo University 
+- 🌱 I have Bachelor's degree in Computer Science at Aleppo University 
 - 📫 How to reach me: dev.ahmadsipan@gmail.com 
 
 
