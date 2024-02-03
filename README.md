@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Sipan
 #### Front-End Developer
-![Front-End Development](https://media.licdn.com/dms/image/D4E16AQFRUGrVP2S20w/profile-displaybackgroundimage-shrink_350_1400/0/1682427326293?e=1688601600&v=beta&t=lX8x6wNlZjqzkDbqmVd18kyCnGsDtT1WA5YIxiPvgHY)
+![Front-End Development]([https://media.licdn.com/dms/image/D4E16AQFRUGrVP2S20w/profile-displaybackgroundimage-shrink_350_1400/0/1682427326293?e=1688601600&v=beta&t=lX8x6wNlZjqzkDbqmVd18kyCnGsDtT1WA5YIxiPvgHY](https://media.licdn.com/dms/image/D4E16AQFRUGrVP2S20w/profile-displaybackgroundimage-shrink_350_1400/0/1682427326864?e=1712188800&v=beta&t=umwMgI9TwkZaKnLsa3btOolwtdwc9jmVPLm5VL-Zz6M)
 
-My name is Sipan Ahmad, I live in Syria. I'm studying at Aleppo University in IT. I'm interested in the field of Frontend development.
+My name is Sipan Ahmad, I live in Erbil, Kurdistan Region, Iraq. I'm interested in the field of Frontend development.
 
 Skills:  JS / HTML / CSS / SASS / REACT JS / GIT / GITHUB
 
